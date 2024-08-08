@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **darshana2021sujan@gmail.com**
+- 📫 How to reach me **2022cs030@stu.ucsc.cmb.ac.lk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
