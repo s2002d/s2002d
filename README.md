@@ -7,7 +7,9 @@
 <br />
 
 - 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in Computer Science at University of Colombo School of Computing
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on **www.linkedin.com/in/
+sujan-darshana-4089202a9
+**
 - 📫 How to reach me **2022cs030@stu.ucsc.cmb.ac.lk**
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=s2002d&label=Profile%20views&color=brightgreen&style=plastic" alt="sujan's profile views" /> 
